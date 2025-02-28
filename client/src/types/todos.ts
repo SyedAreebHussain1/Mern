@@ -1,0 +1,6 @@
+export interface Todo {
+  _id?: string;
+  title: string;
+  deadline: string;
+  description: string;
+}
