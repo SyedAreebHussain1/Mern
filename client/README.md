@@ -14,11 +14,14 @@ By typing command "yarn install" or "npm install"
 Now type "npm run dev"
 Runs the app in the development mode.\
 
+
 ### Key Libraries inside Todo web app
 React.js, Antd UI, Tailwind CSS, Antd Icons, Redux toolkit
 
+
 ### `npm run build`
 Craete build
+
 
 ## Configuration(.env file):
 config = {
