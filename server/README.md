@@ -3,7 +3,8 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 ## Clone the repoitory
-git clone https://github.com/
+git clone https://github.com/SyedAreebHussain1/Mern.git
+cd mern
 cd server
 
 ## Install dependencies:

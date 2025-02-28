@@ -6,6 +6,7 @@ import userRoutes from "./routes/userRoutes";
 import todoRoutes from "./routes/todoRoutes";
 
 dotenv.config();
+
 connectDB();
 
 const app = express();
