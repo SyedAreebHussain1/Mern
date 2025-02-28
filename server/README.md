@@ -10,10 +10,10 @@ cd server
 ## Install dependencies:
 By typing command "yarn install" or "npm install"
 
+
 ### `starting the app`
 Now type "npm run dev"
 Runs the app in the development mode.\
-
 
 ### Key Libraries inside server
 express.js, bcryptjs, mongoose, express, cors
